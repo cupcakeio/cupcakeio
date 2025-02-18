@@ -9,7 +9,7 @@ Hi, I'm Amy, a **Chemical Engineer** with a passion for **data science, computat
 - Used cheMBL database to search for available data of bioactivity using IC50 against Acetylcholinesterase.
 - Pre-processed data and obtained descriptors using RDkit.
 - Create and evaluated various models using LazyPredict and Scikit-Learn.
-- Built a GUI letting users search a molecule and get a predicted of whether it is effective against Acetylcholinesterase.  
+- Built a Webapp using Streamlit letting users search a molecule by SMILE and get a predicted of whether it is effective against Acetylcholinesterase.  
 - [🔗 View Repository](https://github.com/cupcakeio/BioactivityProject)   
 
 ## 💻 Tech & Tools 
