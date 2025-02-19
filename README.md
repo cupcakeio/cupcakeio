@@ -4,7 +4,7 @@
 Hi, I'm Amy, a **Chemical Engineer** with a passion for **data science, computational chemistry, and AI-driven drug discovery**. My background in Chemistry and Chemical Engineering has evolved into a focus on leveraging **Python, machine learning, and data analytics** to solve real-world problems in science and engineering.
 
 ## 📂 Featured Projects
-### 🔹 [Machine learning model predicting effective drugs against Acetylcholinesterase] - *(Drug Discovery AI Model)*
+### 🔹 Machine learning model predicting effective drugs against Acetylcholinesterase - *([Drug Discovery AI Model](https://github.com/cupcakeio/BioactivityProject))*
 - Developed a machine learning model to predict bioactivity of drug-like molecules  
 - Used cheMBL database to search for available data of bioactivity using IC50 against Acetylcholinesterase.
 - Pre-processed data and obtained descriptors using RDkit.
